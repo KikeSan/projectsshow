@@ -38,16 +38,13 @@
 | _Shaman Siddique_ | _web-devloper_                                                                |
 | Zibras Ismail     | _MERN-Stack-Developer_                                                        |
 |Aishwarya Hombalimath|Web Development, AI ,ML ,Datascience                                         |
-| Mohammad Anang | _Software Engineer_ |
+| Mohammad Anang    | _Software Engineer_                                                           |
 | Gourav            |  full stack development                                                       |
 | Hafiz Abdulmanan  |  full stack development                                                       |
-<<<<<<< HEAD
-|Ujjwal Tarika      | front end, full stack                                              
-web_development                                                   |
-
-=======
+| Ujjwal Tarika     | front end, full stack web_development                                         |
 | Imran Nazir       |  full stack development                                                       |
->>>>>>> 7f83dcd5a7e61df3914ee5cdee5e0b3be84db6c6
+| Kike Sanchez      |  Flutter, Angular, Nest, NodeJS, Google Cloud Platform                        |
+
 ### Follow the instructions of CONTRIBUTING.md properly.
 
 ## 🎯Objectives
